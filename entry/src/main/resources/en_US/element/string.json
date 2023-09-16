@@ -11,6 +11,26 @@
     {
       "name": "EntryAbility_label",
       "value": "label"
+    },
+    {
+      "name": "tab_bar_discover",
+      "value": "discover"
+    },
+    {
+      "name": "tab_bar_music_people",
+      "value": "broadcaster "
+    },
+    {
+      "name": "tab_bar_my",
+      "value": "my"
+    },
+    {
+      "name": "tab_bar_follow",
+      "value": "follow"
+    },
+    {
+      "name": "tab_bar_communities",
+      "value": "communities "
     }
   ]
 }
